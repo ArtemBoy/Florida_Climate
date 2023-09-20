@@ -1,0 +1,157 @@
+,City,Month,Temperature,Type
+0,DAYTONA,January,15,Record minimum
+1,FORT MYERS,January,27,Record minimum
+2,GAINESVILLE,January,10,Record minimum
+3,JACKSONVILLE,January,7,Record minimum
+4,KEY WEST,January,41,Record minimum
+5,MIAMI,January,30,Record minimum
+6,ORLANDO,January,19,Record minimum
+7,PENSACOLA,January,5,Record minimum
+8,TALLAHASSEE,January,6,Record minimum
+9,TAMPA,January,21,Record minimum
+10,VERO BEACH,January,21,Record minimum
+11,WEST PALM BEACH,January,27,Record minimum
+12,DAYTONA,February,24,Record minimum
+13,FORT MYERS,February,30,Record minimum
+14,GAINESVILLE,February,18,Record minimum
+15,JACKSONVILLE,February,19,Record minimum
+16,KEY WEST,February,45,Record minimum
+17,MIAMI,February,35,Record minimum
+18,ORLANDO,February,26,Record minimum
+19,PENSACOLA,February,13,Record minimum
+20,TALLAHASSEE,February,14,Record minimum
+21,TAMPA,February,24,Record minimum
+22,VERO BEACH,February,28,Record minimum
+23,WEST PALM BEACH,February,32,Record minimum
+24,DAYTONA,March,26,Record minimum
+25,FORT MYERS,March,33,Record minimum
+26,GAINESVILLE,March,25,Record minimum
+27,JACKSONVILLE,March,23,Record minimum
+28,KEY WEST,March,47,Record minimum
+29,MIAMI,March,32,Record minimum
+30,ORLANDO,March,25,Record minimum
+31,PENSACOLA,March,22,Record minimum
+32,TALLAHASSEE,March,20,Record minimum
+33,TAMPA,March,29,Record minimum
+34,VERO BEACH,March,31,Record minimum
+35,WEST PALM BEACH,March,30,Record minimum
+36,DAYTONA,April,32,Record minimum
+37,FORT MYERS,April,39,Record minimum
+38,GAINESVILLE,April,32,Record minimum
+39,JACKSONVILLE,April,31,Record minimum
+40,KEY WEST,April,48,Record minimum
+41,MIAMI,April,42,Record minimum
+42,ORLANDO,April,38,Record minimum
+43,PENSACOLA,April,33,Record minimum
+44,TALLAHASSEE,April,29,Record minimum
+45,TAMPA,April,40,Record minimum
+46,VERO BEACH,April,36,Record minimum
+47,WEST PALM BEACH,April,43,Record minimum
+48,DAYTONA,May,40,Record minimum
+49,FORT MYERS,May,50,Record minimum
+50,GAINESVILLE,May,42,Record minimum
+51,JACKSONVILLE,May,45,Record minimum
+52,KEY WEST,May,63,Record minimum
+53,MIAMI,May,55,Record minimum
+54,ORLANDO,May,48,Record minimum
+55,PENSACOLA,May,45,Record minimum
+56,TALLAHASSEE,May,34,Record minimum
+57,TAMPA,May,49,Record minimum
+58,VERO BEACH,May,47,Record minimum
+59,WEST PALM BEACH,May,51,Record minimum
+60,DAYTONA,June,52,Record minimum
+61,FORT MYERS,June,58,Record minimum
+62,GAINESVILLE,June,50,Record minimum
+63,JACKSONVILLE,June,47,Record minimum
+64,KEY WEST,June,68,Record minimum
+65,MIAMI,June,60,Record minimum
+66,ORLANDO,June,53,Record minimum
+67,PENSACOLA,June,56,Record minimum
+68,TALLAHASSEE,June,46,Record minimum
+69,TAMPA,June,53,Record minimum
+70,VERO BEACH,June,57,Record minimum
+71,WEST PALM BEACH,June,61,Record minimum
+72,DAYTONA,July,60,Record minimum
+73,FORT MYERS,July,66,Record minimum
+74,GAINESVILLE,July,61,Record minimum
+75,JACKSONVILLE,July,61,Record minimum
+76,KEY WEST,July,69,Record minimum
+77,MIAMI,July,69,Record minimum
+78,ORLANDO,July,64,Record minimum
+79,PENSACOLA,July,61,Record minimum
+80,TALLAHASSEE,July,57,Record minimum
+81,TAMPA,July,63,Record minimum
+82,VERO BEACH,July,67,Record minimum
+83,WEST PALM BEACH,July,68,Record minimum
+84,DAYTONA,August,63,Record minimum
+85,FORT MYERS,August,65,Record minimum
+86,GAINESVILLE,August,61,Record minimum
+87,JACKSONVILLE,August,63,Record minimum
+88,KEY WEST,August,68,Record minimum
+89,MIAMI,August,68,Record minimum
+90,ORLANDO,August,65,Record minimum
+91,PENSACOLA,August,60,Record minimum
+92,TALLAHASSEE,August,57,Record minimum
+93,TAMPA,August,67,Record minimum
+94,VERO BEACH,August,64,Record minimum
+95,WEST PALM BEACH,August,65,Record minimum
+96,DAYTONA,September,52,Record minimum
+97,FORT MYERS,September,63,Record minimum
+98,GAINESVILLE,September,48,Record minimum
+99,JACKSONVILLE,September,48,Record minimum
+100,KEY WEST,September,69,Record minimum
+101,MIAMI,September,68,Record minimum
+102,ORLANDO,September,57,Record minimum
+103,PENSACOLA,September,43,Record minimum
+104,TALLAHASSEE,September,40,Record minimum
+105,TAMPA,September,57,Record minimum
+106,VERO BEACH,September,61,Record minimum
+107,WEST PALM BEACH,September,66,Record minimum
+108,DAYTONA,October,39,Record minimum
+109,FORT MYERS,October,45,Record minimum
+110,GAINESVILLE,October,32,Record minimum
+111,JACKSONVILLE,October,33,Record minimum
+112,KEY WEST,October,60,Record minimum
+113,MIAMI,October,53,Record minimum
+114,ORLANDO,October,43,Record minimum
+115,PENSACOLA,October,32,Record minimum
+116,TALLAHASSEE,October,29,Record minimum
+117,TAMPA,October,40,Record minimum
+118,VERO BEACH,October,45,Record minimum
+119,WEST PALM BEACH,October,46,Record minimum
+120,DAYTONA,November,25,Record minimum
+121,FORT MYERS,November,34,Record minimum
+122,GAINESVILLE,November,24,Record minimum
+123,JACKSONVILLE,November,21,Record minimum
+124,KEY WEST,November,49,Record minimum
+125,MIAMI,November,39,Record minimum
+126,ORLANDO,November,32,Record minimum
+127,PENSACOLA,November,22,Record minimum
+128,TALLAHASSEE,November,13,Record minimum
+129,TAMPA,November,23,Record minimum
+130,VERO BEACH,November,33,Record minimum
+131,WEST PALM BEACH,November,36,Record minimum
+132,DAYTONA,December,19,Record minimum
+133,FORT MYERS,December,24,Record minimum
+134,GAINESVILLE,December,13,Record minimum
+135,JACKSONVILLE,December,11,Record minimum
+136,KEY WEST,December,44,Record minimum
+137,MIAMI,December,30,Record minimum
+138,ORLANDO,December,20,Record minimum
+139,PENSACOLA,December,11,Record minimum
+140,TALLAHASSEE,December,10,Record minimum
+141,TAMPA,December,18,Record minimum
+142,VERO BEACH,December,23,Record minimum
+143,WEST PALM BEACH,December,28,Record minimum
+144,DAYTONA,Annual,15,Record minimum
+145,FORT MYERS,Annual,24,Record minimum
+146,GAINESVILLE,Annual,10,Record minimum
+147,JACKSONVILLE,Annual,7,Record minimum
+148,KEY WEST,Annual,41,Record minimum
+149,MIAMI,Annual,30,Record minimum
+150,ORLANDO,Annual,19,Record minimum
+151,PENSACOLA,Annual,5,Record minimum
+152,TALLAHASSEE,Annual,6,Record minimum
+153,TAMPA,Annual,18,Record minimum
+154,VERO BEACH,Annual,21,Record minimum
+155,WEST PALM BEACH,Annual,27,Record minimum

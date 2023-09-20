@@ -1,0 +1,157 @@
+,City,Month,Temperature,Type
+0,DAYTONA BEACH,January,68.4,Normal maximum
+1,FORT MYERS,January,74.7,Normal maximum
+2,GAINESVILLE,January,66.2,Normal maximum
+3,JACKSONVILLE,January,64.8,Normal maximum
+4,KEY WEST,January,74.9,Normal maximum
+5,MIAMI,January,76.4,Normal maximum
+6,ORLANDO,January,70.7,Normal maximum
+7,PENSACOLA,January,60.3,Normal maximum
+8,TALLAHASSEE,January,63.5,Normal maximum
+9,TAMPA,January,69.9,Normal maximum
+10,VERO BEACH,January,72.4,Normal maximum
+11,WEST PALM BEACH,January,74.6,Normal maximum
+12,DAYTONA BEACH,February,70.7,Normal maximum
+13,FORT MYERS,February,77.2,Normal maximum
+14,GAINESVILLE,February,69.6,Normal maximum
+15,JACKSONVILLE,February,68.2,Normal maximum
+16,KEY WEST,February,76.8,Normal maximum
+17,MIAMI,February,78.1,Normal maximum
+18,ORLANDO,February,73.1,Normal maximum
+19,PENSACOLA,February,63.3,Normal maximum
+20,TALLAHASSEE,February,67.5,Normal maximum
+21,TAMPA,February,72.5,Normal maximum
+22,VERO BEACH,February,74.5,Normal maximum
+23,WEST PALM BEACH,February,76.5,Normal maximum
+24,DAYTONA BEACH,March,74.5,Normal maximum
+25,FORT MYERS,March,80.4,Normal maximum
+26,GAINESVILLE,March,74.6,Normal maximum
+27,JACKSONVILLE,March,73.7,Normal maximum
+28,KEY WEST,March,79.0,Normal maximum
+29,MIAMI,March,80.3,Normal maximum
+30,ORLANDO,March,77.4,Normal maximum
+31,PENSACOLA,March,68.4,Normal maximum
+32,TALLAHASSEE,March,73.8,Normal maximum
+33,TAMPA,March,76.3,Normal maximum
+34,VERO BEACH,March,77.2,Normal maximum
+35,WEST PALM BEACH,March,78.7,Normal maximum
+36,DAYTONA BEACH,April,79.2,Normal maximum
+37,FORT MYERS,April,84.6,Normal maximum
+38,GAINESVILLE,April,80.3,Normal maximum
+39,JACKSONVILLE,April,79.2,Normal maximum
+40,KEY WEST,April,81.7,Normal maximum
+41,MIAMI,April,83.2,Normal maximum
+42,ORLANDO,April,82.1,Normal maximum
+43,PENSACOLA,April,74.4,Normal maximum
+44,TALLAHASSEE,April,79.9,Normal maximum
+45,TAMPA,April,81.0,Normal maximum
+46,VERO BEACH,April,80.5,Normal maximum
+47,WEST PALM BEACH,April,81.7,Normal maximum
+48,DAYTONA BEACH,May,84.7,Normal maximum
+49,FORT MYERS,May,89.4,Normal maximum
+50,GAINESVILLE,May,86.9,Normal maximum
+51,JACKSONVILLE,May,85.5,Normal maximum
+52,KEY WEST,May,85.3,Normal maximum
+53,MIAMI,May,87.0,Normal maximum
+54,ORLANDO,May,87.9,Normal maximum
+55,PENSACOLA,May,81.9,Normal maximum
+56,TALLAHASSEE,May,87.0,Normal maximum
+57,TAMPA,May,87.2,Normal maximum
+58,VERO BEACH,May,84.8,Normal maximum
+59,WEST PALM BEACH,May,85.7,Normal maximum
+60,DAYTONA BEACH,June,88.4,Normal maximum
+61,FORT MYERS,June,91.5,Normal maximum
+62,GAINESVILLE,June,90.0,Normal maximum
+63,JACKSONVILLE,June,89.9,Normal maximum
+64,KEY WEST,June,88.1,Normal maximum
+65,MIAMI,June,89.5,Normal maximum
+66,ORLANDO,June,90.7,Normal maximum
+67,PENSACOLA,June,87.1,Normal maximum
+68,TALLAHASSEE,June,91.0,Normal maximum
+69,TAMPA,June,89.6,Normal maximum
+70,VERO BEACH,June,88.3,Normal maximum
+71,WEST PALM BEACH,June,88.4,Normal maximum
+72,DAYTONA BEACH,July,90.2,Normal maximum
+73,FORT MYERS,July,91.9,Normal maximum
+74,GAINESVILLE,July,90.9,Normal maximum
+75,JACKSONVILLE,July,92.0,Normal maximum
+76,KEY WEST,July,89.4,Normal maximum
+77,MIAMI,July,90.9,Normal maximum
+78,ORLANDO,July,91.8,Normal maximum
+79,PENSACOLA,July,89.0,Normal maximum
+80,TALLAHASSEE,July,92.1,Normal maximum
+81,TAMPA,July,90.1,Normal maximum
+82,VERO BEACH,July,90.0,Normal maximum
+83,WEST PALM BEACH,July,89.9,Normal maximum
+84,DAYTONA BEACH,August,89.6,Normal maximum
+85,FORT MYERS,August,91.8,Normal maximum
+86,GAINESVILLE,August,90.2,Normal maximum
+87,JACKSONVILLE,August,90.9,Normal maximum
+88,KEY WEST,August,89.8,Normal maximum
+89,MIAMI,August,91.0,Normal maximum
+90,ORLANDO,August,91.6,Normal maximum
+91,PENSACOLA,August,88.6,Normal maximum
+92,TALLAHASSEE,August,91.5,Normal maximum
+93,TAMPA,August,90.2,Normal maximum
+94,VERO BEACH,August,89.8,Normal maximum
+95,WEST PALM BEACH,August,90.1,Normal maximum
+96,DAYTONA BEACH,September,86.9,Normal maximum
+97,FORT MYERS,September,90.5,Normal maximum
+98,GAINESVILLE,September,87.4,Normal maximum
+99,JACKSONVILLE,September,86.9,Normal maximum
+100,KEY WEST,September,88.6,Normal maximum
+101,MIAMI,September,89.3,Normal maximum
+102,ORLANDO,September,89.2,Normal maximum
+103,PENSACOLA,September,85.7,Normal maximum
+104,TALLAHASSEE,September,88.4,Normal maximum
+105,TAMPA,September,88.9,Normal maximum
+106,VERO BEACH,September,88.0,Normal maximum
+107,WEST PALM BEACH,September,88.3,Normal maximum
+108,DAYTONA BEACH,October,82.0,Normal maximum
+109,FORT MYERS,October,86.7,Normal maximum
+110,GAINESVILLE,October,81.3,Normal maximum
+111,JACKSONVILLE,October,80.4,Normal maximum
+112,KEY WEST,October,85.1,Normal maximum
+113,MIAMI,October,86.2,Normal maximum
+114,ORLANDO,October,84.1,Normal maximum
+115,PENSACOLA,October,78.4,Normal maximum
+116,TALLAHASSEE,October,81.4,Normal maximum
+117,TAMPA,October,84.3,Normal maximum
+118,VERO BEACH,October,84.2,Normal maximum
+119,WEST PALM BEACH,October,84.9,Normal maximum
+120,DAYTONA BEACH,November,76.0,Normal maximum
+121,FORT MYERS,November,81.3,Normal maximum
+122,GAINESVILLE,November,74.4,Normal maximum
+123,JACKSONVILLE,November,73.5,Normal maximum
+124,KEY WEST,November,80.7,Normal maximum
+125,MIAMI,November,81.7,Normal maximum
+126,ORLANDO,November,77.9,Normal maximum
+127,PENSACOLA,November,70.3,Normal maximum
+128,TALLAHASSEE,November,73.0,Normal maximum
+129,TAMPA,November,78.0,Normal maximum
+130,VERO BEACH,November,78.9,Normal maximum
+131,WEST PALM BEACH,November,80.1,Normal maximum
+132,DAYTONA BEACH,December,70.4,Normal maximum
+133,FORT MYERS,December,76.6,Normal maximum
+134,GAINESVILLE,December,67.9,Normal maximum
+135,JACKSONVILLE,December,66.6,Normal maximum
+136,KEY WEST,December,76.9,Normal maximum
+137,MIAMI,December,77.9,Normal maximum
+138,ORLANDO,December,72.2,Normal maximum
+139,PENSACOLA,December,62.7,Normal maximum
+140,TALLAHASSEE,December,65.3,Normal maximum
+141,TAMPA,December,72.0,Normal maximum
+142,VERO BEACH,December,74.2,Normal maximum
+143,WEST PALM BEACH,December,76.2,Normal maximum
+144,DAYTONA BEACH,Annual,80.1,Normal maximum
+145,FORT MYERS,Annual,84.7,Normal maximum
+146,GAINESVILLE,Annual,80.0,Normal maximum
+147,JACKSONVILLE,Annual,79.3,Normal maximum
+148,KEY WEST,Annual,83.0,Normal maximum
+149,MIAMI,Annual,84.3,Normal maximum
+150,ORLANDO,Annual,82.4,Normal maximum
+151,PENSACOLA,Annual,75.8,Normal maximum
+152,TALLAHASSEE,Annual,79.5,Normal maximum
+153,TAMPA,Annual,81.7,Normal maximum
+154,VERO BEACH,Annual,81.9,Normal maximum
+155,WEST PALM BEACH,Annual,82.9,Normal maximum

@@ -1,0 +1,157 @@
+,City,Month,Temperature,Type
+0,DAYTONA BEACH,January,57.9,Mean temp
+1,FORT MYERS,January,64.2,Mean temp
+2,GAINESVILLE,January,54.3,Mean temp
+3,JACKSONVILLE,January,53.1,Mean temp
+4,KEY WEST,January,69.4,Mean temp
+5,MIAMI,January,68.2,Mean temp
+6,ORLANDO,January,60.2,Mean temp
+7,PENSACOLA,January,51.1,Mean temp
+8,TALLAHASSEE,January,51.2,Mean temp
+9,TAMPA,January,60.8,Mean temp
+10,VERO BEACH,January,62.1,Mean temp
+11,WEST PALM BEACH,January,65.7,Mean temp
+12,DAYTONA BEACH,February,60.4,Mean temp
+13,FORT MYERS,February,66.6,Mean temp
+14,GAINESVILLE,February,57.5,Mean temp
+15,JACKSONVILLE,February,56.4,Mean temp
+16,KEY WEST,February,71.3,Mean temp
+17,MIAMI,February,70.2,Mean temp
+18,ORLANDO,February,63.2,Mean temp
+19,PENSACOLA,February,54.3,Mean temp
+20,TALLAHASSEE,February,54.7,Mean temp
+21,TAMPA,February,63.4,Mean temp
+22,VERO BEACH,February,64.3,Mean temp
+23,WEST PALM BEACH,February,67.8,Mean temp
+24,DAYTONA BEACH,March,64.3,Mean temp
+25,FORT MYERS,March,69.9,Mean temp
+26,GAINESVILLE,March,62.3,Mean temp
+27,JACKSONVILLE,March,61.7,Mean temp
+28,KEY WEST,March,73.7,Mean temp
+29,MIAMI,March,72.6,Mean temp
+30,ORLANDO,March,67.3,Mean temp
+31,PENSACOLA,March,59.4,Mean temp
+32,TALLAHASSEE,March,60.4,Mean temp
+33,TAMPA,March,67.3,Mean temp
+34,VERO BEACH,March,67.4,Mean temp
+35,WEST PALM BEACH,March,70.5,Mean temp
+36,DAYTONA BEACH,April,68.9,Mean temp
+37,FORT MYERS,April,73.8,Mean temp
+38,GAINESVILLE,April,67.6,Mean temp
+39,JACKSONVILLE,April,67.0,Mean temp
+40,KEY WEST,April,76.6,Mean temp
+41,MIAMI,April,75.8,Mean temp
+42,ORLANDO,April,71.9,Mean temp
+43,PENSACOLA,April,65.7,Mean temp
+44,TALLAHASSEE,April,66.1,Mean temp
+45,TAMPA,April,72.0,Mean temp
+46,VERO BEACH,April,70.9,Mean temp
+47,WEST PALM BEACH,April,73.8,Mean temp
+48,DAYTONA BEACH,May,75.0,Mean temp
+49,FORT MYERS,May,79.0,Mean temp
+50,GAINESVILLE,May,74.7,Mean temp
+51,JACKSONVILLE,May,74.1,Mean temp
+52,KEY WEST,May,80.4,Mean temp
+53,MIAMI,May,79.9,Mean temp
+54,ORLANDO,May,77.8,Mean temp
+55,PENSACOLA,May,73.7,Mean temp
+56,TALLAHASSEE,May,74.3,Mean temp
+57,TAMPA,May,78.4,Mean temp
+58,VERO BEACH,May,76.2,Mean temp
+59,WEST PALM BEACH,May,78.4,Mean temp
+60,DAYTONA BEACH,June,79.9,Mean temp
+61,FORT MYERS,June,82.5,Mean temp
+62,GAINESVILLE,June,79.7,Mean temp
+63,JACKSONVILLE,June,79.9,Mean temp
+64,KEY WEST,June,83.5,Mean temp
+65,MIAMI,June,82.7,Mean temp
+66,ORLANDO,June,81.9,Mean temp
+67,PENSACOLA,June,79.6,Mean temp
+68,TALLAHASSEE,June,80.2,Mean temp
+69,TAMPA,June,82.2,Mean temp
+70,VERO BEACH,June,80.2,Mean temp
+71,WEST PALM BEACH,June,81.4,Mean temp
+72,DAYTONA BEACH,July,81.6,Mean temp
+73,FORT MYERS,July,83.2,Mean temp
+74,GAINESVILLE,July,81.2,Mean temp
+75,JACKSONVILLE,July,82.3,Mean temp
+76,KEY WEST,July,84.6,Mean temp
+77,MIAMI,July,84.1,Mean temp
+78,ORLANDO,July,83.7,Mean temp
+79,PENSACOLA,July,81.8,Mean temp
+80,TALLAHASSEE,July,82.0,Mean temp
+81,TAMPA,July,83.0,Mean temp
+82,VERO BEACH,July,81.7,Mean temp
+83,WEST PALM BEACH,July,82.7,Mean temp
+84,DAYTONA BEACH,August,81.5,Mean temp
+85,FORT MYERS,August,83.4,Mean temp
+86,GAINESVILLE,August,80.9,Mean temp
+87,JACKSONVILLE,August,81.8,Mean temp
+88,KEY WEST,August,84.6,Mean temp
+89,MIAMI,August,84.2,Mean temp
+90,ORLANDO,August,83.6,Mean temp
+91,PENSACOLA,August,81.6,Mean temp
+92,TALLAHASSEE,August,81.8,Mean temp
+93,TAMPA,August,83.2,Mean temp
+94,VERO BEACH,August,81.7,Mean temp
+95,WEST PALM BEACH,August,83.0,Mean temp
+96,DAYTONA BEACH,September,79.5,Mean temp
+97,FORT MYERS,September,82.4,Mean temp
+98,GAINESVILLE,September,78.2,Mean temp
+99,JACKSONVILLE,September,78.2,Mean temp
+100,KEY WEST,September,83.6,Mean temp
+101,MIAMI,September,82.9,Mean temp
+102,ORLANDO,September,81.6,Mean temp
+103,PENSACOLA,September,78.0,Mean temp
+104,TALLAHASSEE,September,78.2,Mean temp
+105,TAMPA,September,81.7,Mean temp
+106,VERO BEACH,September,80.6,Mean temp
+107,WEST PALM BEACH,September,81.8,Mean temp
+108,DAYTONA BEACH,October,74.0,Mean temp
+109,FORT MYERS,October,77.9,Mean temp
+110,GAINESVILLE,October,70.9,Mean temp
+111,JACKSONVILLE,October,70.4,Mean temp
+112,KEY WEST,October,80.6,Mean temp
+113,MIAMI,October,79.9,Mean temp
+114,ORLANDO,October,75.9,Mean temp
+115,PENSACOLA,October,69.1,Mean temp
+116,TALLAHASSEE,October,69.4,Mean temp
+117,TAMPA,October,76.2,Mean temp
+118,VERO BEACH,October,76.5,Mean temp
+119,WEST PALM BEACH,October,78.3,Mean temp
+120,DAYTONA BEACH,November,66.6,Mean temp
+121,FORT MYERS,November,71.7,Mean temp
+122,GAINESVILLE,November,62.8,Mean temp
+123,JACKSONVILLE,November,62.2,Mean temp
+124,KEY WEST,November,76.1,Mean temp
+125,MIAMI,November,74.9,Mean temp
+126,ORLANDO,November,68.9,Mean temp
+127,PENSACOLA,November,60.7,Mean temp
+128,TALLAHASSEE,November,60.2,Mean temp
+129,TAMPA,November,69.1,Mean temp
+130,VERO BEACH,November,70.2,Mean temp
+131,WEST PALM BEACH,November,72.8,Mean temp
+132,DAYTONA BEACH,December,60.5,Mean temp
+133,FORT MYERS,December,66.5,Mean temp
+134,GAINESVILLE,December,56.1,Mean temp
+135,JACKSONVILLE,December,55.2,Mean temp
+136,KEY WEST,December,71.9,Mean temp
+137,MIAMI,December,70.5,Mean temp
+138,ORLANDO,December,63.0,Mean temp
+139,PENSACOLA,December,53.7,Mean temp
+140,TALLAHASSEE,December,53.2,Mean temp
+141,TAMPA,December,63.1,Mean temp
+142,VERO BEACH,December,64.6,Mean temp
+143,WEST PALM BEACH,December,68.1,Mean temp
+144,DAYTONA BEACH,Annual,70.8,Mean temp
+145,FORT MYERS,Annual,75.1,Mean temp
+146,GAINESVILLE,Annual,68.9,Mean temp
+147,JACKSONVILLE,Annual,68.5,Mean temp
+148,KEY WEST,Annual,78.0,Mean temp
+149,MIAMI,Annual,77.2,Mean temp
+150,ORLANDO,Annual,73.3,Mean temp
+151,PENSACOLA,Annual,67.4,Mean temp
+152,TALLAHASSEE,Annual,67.6,Mean temp
+153,TAMPA,Annual,73.4,Mean temp
+154,VERO BEACH,Annual,73.0,Mean temp
+155,WEST PALM BEACH,Annual,75.4,Mean temp

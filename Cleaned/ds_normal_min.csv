@@ -1,0 +1,157 @@
+,City,Month,Temperature,Type
+0,DAYTONA,January,47.3,Normal minimum
+1,FORT MYERS,January,53.7,Normal minimum
+2,GAINESVILLE,January,42.3,Normal minimum
+3,JACKSONVILLE,January,41.4,Normal minimum
+4,KEY WEST,January,64.0,Normal minimum
+5,MIAMI,January,59.9,Normal minimum
+6,ORLANDO,January,49.8,Normal minimum
+7,PENSACOLA,January,42.0,Normal minimum
+8,TALLAHASSEE,January,39.0,Normal minimum
+9,TAMPA,January,51.6,Normal minimum
+10,VERO BEACH,January,51.7,Normal minimum
+11,WEST PALM BEACH,January,56.8,Normal minimum
+12,DAYTONA,February,50.1,Normal minimum
+13,FORT MYERS,February,55.9,Normal minimum
+14,GAINESVILLE,February,45.3,Normal minimum
+15,JACKSONVILLE,February,44.7,Normal minimum
+16,KEY WEST,February,65.9,Normal minimum
+17,MIAMI,February,62.3,Normal minimum
+18,ORLANDO,February,53.4,Normal minimum
+19,PENSACOLA,February,45.3,Normal minimum
+20,TALLAHASSEE,February,41.9,Normal minimum
+21,TAMPA,February,54.4,Normal minimum
+22,VERO BEACH,February,54.1,Normal minimum
+23,WEST PALM BEACH,February,59.1,Normal minimum
+24,DAYTONA,March,54.2,Normal minimum
+25,FORT MYERS,March,59.4,Normal minimum
+26,GAINESVILLE,March,50.0,Normal minimum
+27,JACKSONVILLE,March,49.7,Normal minimum
+28,KEY WEST,March,68.3,Normal minimum
+29,MIAMI,March,64.9,Normal minimum
+30,ORLANDO,March,57.2,Normal minimum
+31,PENSACOLA,March,50.5,Normal minimum
+32,TALLAHASSEE,March,47.1,Normal minimum
+33,TAMPA,March,58.2,Normal minimum
+34,VERO BEACH,March,57.6,Normal minimum
+35,WEST PALM BEACH,March,62.2,Normal minimum
+36,DAYTONA,April,58.6,Normal minimum
+37,FORT MYERS,April,63.1,Normal minimum
+38,GAINESVILLE,April,54.9,Normal minimum
+39,JACKSONVILLE,April,54.7,Normal minimum
+40,KEY WEST,April,71.6,Normal minimum
+41,MIAMI,April,68.3,Normal minimum
+42,ORLANDO,April,61.7,Normal minimum
+43,PENSACOLA,April,57.0,Normal minimum
+44,TALLAHASSEE,April,52.3,Normal minimum
+45,TAMPA,April,63.0,Normal minimum
+46,VERO BEACH,April,61.2,Normal minimum
+47,WEST PALM BEACH,April,65.8,Normal minimum
+48,DAYTONA,May,65.4,Normal minimum
+49,FORT MYERS,May,68.7,Normal minimum
+50,GAINESVILLE,May,62.4,Normal minimum
+51,JACKSONVILLE,May,62.7,Normal minimum
+52,KEY WEST,May,75.6,Normal minimum
+53,MIAMI,May,72.9,Normal minimum
+54,ORLANDO,May,67.8,Normal minimum
+55,PENSACOLA,May,65.5,Normal minimum
+56,TALLAHASSEE,May,61.6,Normal minimum
+57,TAMPA,May,69.7,Normal minimum
+58,VERO BEACH,May,67.6,Normal minimum
+59,WEST PALM BEACH,May,71.0,Normal minimum
+60,DAYTONA,June,71.4,Normal minimum
+61,FORT MYERS,June,73.5,Normal minimum
+62,GAINESVILLE,June,69.3,Normal minimum
+63,JACKSONVILLE,June,70.0,Normal minimum
+64,KEY WEST,June,78.8,Normal minimum
+65,MIAMI,June,76.0,Normal minimum
+66,ORLANDO,June,73.2,Normal minimum
+67,PENSACOLA,June,72.1,Normal minimum
+68,TALLAHASSEE,June,69.5,Normal minimum
+69,TAMPA,June,74.8,Normal minimum
+70,VERO BEACH,June,72.1,Normal minimum
+71,WEST PALM BEACH,June,74.3,Normal minimum
+72,DAYTONA,July,73.0,Normal minimum
+73,FORT MYERS,July,74.5,Normal minimum
+74,GAINESVILLE,July,71.5,Normal minimum
+75,JACKSONVILLE,July,72.6,Normal minimum
+76,KEY WEST,July,79.7,Normal minimum
+77,MIAMI,July,77.3,Normal minimum
+78,ORLANDO,July,75.5,Normal minimum
+79,PENSACOLA,July,74.5,Normal minimum
+80,TALLAHASSEE,July,72.0,Normal minimum
+81,TAMPA,July,75.9,Normal minimum
+82,VERO BEACH,July,73.4,Normal minimum
+83,WEST PALM BEACH,July,75.5,Normal minimum
+84,DAYTONA,August,73.4,Normal minimum
+85,FORT MYERS,August,74.9,Normal minimum
+86,GAINESVILLE,August,71.6,Normal minimum
+87,JACKSONVILLE,August,72.7,Normal minimum
+88,KEY WEST,August,79.5,Normal minimum
+89,MIAMI,August,77.4,Normal minimum
+90,ORLANDO,August,75.6,Normal minimum
+91,PENSACOLA,August,74.5,Normal minimum
+92,TALLAHASSEE,August,72.1,Normal minimum
+93,TAMPA,August,76.2,Normal minimum
+94,VERO BEACH,August,73.6,Normal minimum
+95,WEST PALM BEACH,August,75.9,Normal minimum
+96,DAYTONA,September,72.2,Normal minimum
+97,FORT MYERS,September,74.3,Normal minimum
+98,GAINESVILLE,September,69.0,Normal minimum
+99,JACKSONVILLE,September,69.5,Normal minimum
+100,KEY WEST,September,78.6,Normal minimum
+101,MIAMI,September,76.5,Normal minimum
+102,ORLANDO,September,74.1,Normal minimum
+103,PENSACOLA,September,70.2,Normal minimum
+104,TALLAHASSEE,September,68.1,Normal minimum
+105,TAMPA,September,74.5,Normal minimum
+106,VERO BEACH,September,73.3,Normal minimum
+107,WEST PALM BEACH,September,75.2,Normal minimum
+108,DAYTONA,October,65.9,Normal minimum
+109,FORT MYERS,October,69.1,Normal minimum
+110,GAINESVILLE,October,60.5,Normal minimum
+111,JACKSONVILLE,October,60.5,Normal minimum
+112,KEY WEST,October,76.1,Normal minimum
+113,MIAMI,October,73.5,Normal minimum
+114,ORLANDO,October,67.7,Normal minimum
+115,PENSACOLA,October,59.9,Normal minimum
+116,TALLAHASSEE,October,57.3,Normal minimum
+117,TAMPA,October,68.0,Normal minimum
+118,VERO BEACH,October,68.9,Normal minimum
+119,WEST PALM BEACH,October,71.7,Normal minimum
+120,DAYTONA,November,57.3,Normal minimum
+121,FORT MYERS,November,62.0,Normal minimum
+122,GAINESVILLE,November,51.1,Normal minimum
+123,JACKSONVILLE,November,50.9,Normal minimum
+124,KEY WEST,November,71.5,Normal minimum
+125,MIAMI,November,68.1,Normal minimum
+126,ORLANDO,November,59.8,Normal minimum
+127,PENSACOLA,November,51.1,Normal minimum
+128,TALLAHASSEE,November,47.5,Normal minimum
+129,TAMPA,November,60.3,Normal minimum
+130,VERO BEACH,November,61.5,Normal minimum
+131,WEST PALM BEACH,November,65.5,Normal minimum
+132,DAYTONA,December,50.5,Normal minimum
+133,FORT MYERS,December,56.4,Normal minimum
+134,GAINESVILLE,December,44.4,Normal minimum
+135,JACKSONVILLE,December,43.9,Normal minimum
+136,KEY WEST,December,67.0,Normal minimum
+137,MIAMI,December,63.0,Normal minimum
+138,ORLANDO,December,53.8,Normal minimum
+139,PENSACOLA,December,44.7,Normal minimum
+140,TALLAHASSEE,December,41.1,Normal minimum
+141,TAMPA,December,54.2,Normal minimum
+142,VERO BEACH,December,55.0,Normal minimum
+143,WEST PALM BEACH,December,60.0,Normal minimum
+144,DAYTONA,Annual,61.7,Normal minimum
+145,FORT MYERS,Annual,65.5,Normal minimum
+146,GAINESVILLE,Annual,57.8,Normal minimum
+147,JACKSONVILLE,Annual,57.8,Normal minimum
+148,KEY WEST,Annual,73.1,Normal minimum
+149,MIAMI,Annual,70.1,Normal minimum
+150,ORLANDO,Annual,64.2,Normal minimum
+151,PENSACOLA,Annual,59.0,Normal minimum
+152,TALLAHASSEE,Annual,55.8,Normal minimum
+153,TAMPA,Annual,65.1,Normal minimum
+154,VERO BEACH,Annual,64.2,Normal minimum
+155,WEST PALM BEACH,Annual,67.8,Normal minimum

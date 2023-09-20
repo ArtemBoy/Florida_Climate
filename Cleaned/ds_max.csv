@@ -1,0 +1,157 @@
+,City,Month,Temperature,Type
+0,DAYTONA,January,92,Record maximum
+1,FORT MYERS,January,88,Record maximum
+2,GAINESVILLE,January,85,Record maximum
+3,JACKSONVILLE,January,85,Record maximum
+4,KEY WEST,January,86,Record maximum
+5,MIAMI,January,88,Record maximum
+6,ORLANDO,January,87,Record maximum
+7,PENSACOLA,January,81,Record maximum
+8,TALLAHASSEE,January,83,Record maximum
+9,TAMPA,January,86,Record maximum
+10,VERO BEACH,January,88,Record maximum
+11,WEST PALM BEACH,January,89,Record maximum
+12,DAYTONA,February,89,Record maximum
+13,FORT MYERS,February,92,Record maximum
+14,GAINESVILLE,February,91,Record maximum
+15,JACKSONVILLE,February,89,Record maximum
+16,KEY WEST,February,85,Record maximum
+17,MIAMI,February,89,Record maximum
+18,ORLANDO,February,89,Record maximum
+19,PENSACOLA,February,82,Record maximum
+20,TALLAHASSEE,February,89,Record maximum
+21,TAMPA,February,89,Record maximum
+22,VERO BEACH,February,90,Record maximum
+23,WEST PALM BEACH,February,90,Record maximum
+24,DAYTONA,March,92,Record maximum
+25,FORT MYERS,March,94,Record maximum
+26,GAINESVILLE,March,93,Record maximum
+27,JACKSONVILLE,March,94,Record maximum
+28,KEY WEST,March,88,Record maximum
+29,MIAMI,March,93,Record maximum
+30,ORLANDO,March,93,Record maximum
+31,PENSACOLA,March,90,Record maximum
+32,TALLAHASSEE,March,91,Record maximum
+33,TAMPA,March,91,Record maximum
+34,VERO BEACH,March,93,Record maximum
+35,WEST PALM BEACH,March,95,Record maximum
+36,DAYTONA,April,96,Record maximum
+37,FORT MYERS,April,96,Record maximum
+38,GAINESVILLE,April,96,Record maximum
+39,JACKSONVILLE,April,95,Record maximum
+40,KEY WEST,April,90,Record maximum
+41,MIAMI,April,97,Record maximum
+42,ORLANDO,April,97,Record maximum
+43,PENSACOLA,April,96,Record maximum
+44,TALLAHASSEE,April,95,Record maximum
+45,TAMPA,April,96,Record maximum
+46,VERO BEACH,April,97,Record maximum
+47,WEST PALM BEACH,April,99,Record maximum
+48,DAYTONA,May,100,Record maximum
+49,FORT MYERS,May,99,Record maximum
+50,GAINESVILLE,May,102,Record maximum
+51,JACKSONVILLE,May,102,Record maximum
+52,KEY WEST,May,94,Record maximum
+53,MIAMI,May,98,Record maximum
+54,ORLANDO,May,100,Record maximum
+55,PENSACOLA,May,102,Record maximum
+56,TALLAHASSEE,May,102,Record maximum
+57,TAMPA,May,98,Record maximum
+58,VERO BEACH,May,99,Record maximum
+59,WEST PALM BEACH,May,97,Record maximum
+60,DAYTONA,June,102,Record maximum
+61,FORT MYERS,June,103,Record maximum
+62,GAINESVILLE,June,103,Record maximum
+63,JACKSONVILLE,June,103,Record maximum
+64,KEY WEST,June,94,Record maximum
+65,MIAMI,June,98,Record maximum
+66,ORLANDO,June,100,Record maximum
+67,PENSACOLA,June,102,Record maximum
+68,TALLAHASSEE,June,105,Record maximum
+69,TAMPA,June,99,Record maximum
+70,VERO BEACH,June,102,Record maximum
+71,WEST PALM BEACH,June,98,Record maximum
+72,DAYTONA,July,102,Record maximum
+73,FORT MYERS,July,101,Record maximum
+74,GAINESVILLE,July,99,Record maximum
+75,JACKSONVILLE,July,105,Record maximum
+76,KEY WEST,July,95,Record maximum
+77,MIAMI,July,98,Record maximum
+78,ORLANDO,July,101,Record maximum
+79,PENSACOLA,July,106,Record maximum
+80,TALLAHASSEE,July,103,Record maximum
+81,TAMPA,July,98,Record maximum
+82,VERO BEACH,July,99,Record maximum
+83,WEST PALM BEACH,July,101,Record maximum
+84,DAYTONA,August,101,Record maximum
+85,FORT MYERS,August,100,Record maximum
+86,GAINESVILLE,August,100,Record maximum
+87,JACKSONVILLE,August,102,Record maximum
+88,KEY WEST,August,95,Record maximum
+89,MIAMI,August,98,Record maximum
+90,ORLANDO,August,100,Record maximum
+91,PENSACOLA,August,104,Record maximum
+92,TALLAHASSEE,August,103,Record maximum
+93,TAMPA,August,98,Record maximum
+94,VERO BEACH,August,98,Record maximum
+95,WEST PALM BEACH,August,99,Record maximum
+96,DAYTONA,September,99,Record maximum
+97,FORT MYERS,September,98,Record maximum
+98,GAINESVILLE,September,97,Record maximum
+99,JACKSONVILLE,September,100,Record maximum
+100,KEY WEST,September,95,Record maximum
+101,MIAMI,September,97,Record maximum
+102,ORLANDO,September,98,Record maximum
+103,PENSACOLA,September,102,Record maximum
+104,TALLAHASSEE,September,101,Record maximum
+105,TAMPA,September,96,Record maximum
+106,VERO BEACH,September,97,Record maximum
+107,WEST PALM BEACH,September,96,Record maximum
+108,DAYTONA,October,95,Record maximum
+109,FORT MYERS,October,95,Record maximum
+110,GAINESVILLE,October,93,Record maximum
+111,JACKSONVILLE,October,96,Record maximum
+112,KEY WEST,October,93,Record maximum
+113,MIAMI,October,95,Record maximum
+114,ORLANDO,October,95,Record maximum
+115,PENSACOLA,October,97,Record maximum
+116,TALLAHASSEE,October,97,Record maximum
+117,TAMPA,October,95,Record maximum
+118,VERO BEACH,October,94,Record maximum
+119,WEST PALM BEACH,October,95,Record maximum
+120,DAYTONA,November,90,Record maximum
+121,FORT MYERS,November,95,Record maximum
+122,GAINESVILLE,November,91,Record maximum
+123,JACKSONVILLE,November,89,Record maximum
+124,KEY WEST,November,89,Record maximum
+125,MIAMI,November,91,Record maximum
+126,ORLANDO,November,91,Record maximum
+127,PENSACOLA,November,89,Record maximum
+128,TALLAHASSEE,November,89,Record maximum
+129,TAMPA,November,92,Record maximum
+130,VERO BEACH,November,92,Record maximum
+131,WEST PALM BEACH,November,91,Record maximum
+132,DAYTONA,December,88,Record maximum
+133,FORT MYERS,December,91,Record maximum
+134,GAINESVILLE,December,86,Record maximum
+135,JACKSONVILLE,December,85,Record maximum
+136,KEY WEST,December,88,Record maximum
+137,MIAMI,December,89,Record maximum
+138,ORLANDO,December,90,Record maximum
+139,PENSACOLA,December,81,Record maximum
+140,TALLAHASSEE,December,84,Record maximum
+141,TAMPA,December,86,Record maximum
+142,VERO BEACH,December,89,Record maximum
+143,WEST PALM BEACH,December,90,Record maximum
+144,DAYTONA,Annual,102,Record maximum
+145,FORT MYERS,Annual,103,Record maximum
+146,GAINESVILLE,Annual,103,Record maximum
+147,JACKSONVILLE,Annual,105,Record maximum
+148,KEY WEST,Annual,95,Record maximum
+149,MIAMI,Annual,98,Record maximum
+150,ORLANDO,Annual,101,Record maximum
+151,PENSACOLA,Annual,106,Record maximum
+152,TALLAHASSEE,Annual,105,Record maximum
+153,TAMPA,Annual,99,Record maximum
+154,VERO BEACH,Annual,102,Record maximum
+155,WEST PALM BEACH,Annual,101,Record maximum
